@@ -1,0 +1,23 @@
+- [x] ./Tick/2017/1/output.log:368:[Warning] Over 4.0% Exception :0.043724483076517995 Index found in Tick/2017/1/23/IC1703.CFFEX.txt:94
+- [ ] ./Tick/2017/3/output.log:258:[Warning] Over 4.0% Exception :0.09457413249211366 Index found in Tick/2017/3/17/IC1706.CFFEX.txt:3
+- [x] ./Tick/2017/3/output.log:259:[Warning] Over 4.0% Exception :0.05245304353288516 Index found in Tick/2017/3/17/IC1706.CFFEX.txt:102
+- [x] ./Tick/2017/3/output.log:472:[Warning] Over 4.0% Exception :0.08860283754580478 Index found in Tick/2017/3/14/IH1703.CFFEX.txt:9700
+- [x] ./Tick/2017/8/output.log:470:[Warning] Over 4.0% Exception :0.0653922798730533 Index found in Tick/2017/8/25/IH1803.CFFEX.txt:5716
+- [x] ./Tick/2018/5/output.log:540:[Warning] Over 10.0% Exception :0.10017587845676013 Index found in Tick/2018/5/23/IC1809.CFFEX.txt:4207
+- [ ] ./Tick/2018/7/output.log:28:[Warning] Over 4.0% Exception :0.09178743961352653 Index found in Tick/2018/7/11/IH1808.CFFEX.txt:6
+- [x] ./Tick/2018/10/output.log:66:[Warning] Over 4.0% Exception :0.06801301034030782 Index found in Tick/2018/10/31/IC1906.CFFEX.txt:8190
+- [x] ./Tick/2019/9/output.log:468:[Warning] Over 4.0% Exception :0.06959767275920736 Index found in Tick/2019/9/23/IF2003.CFFEX.txt:56
+- [x] ./Tick/2020/2/output.log:309:[Warning] Over 4.0% Exception :0.0956210902591601 Index found in Tick/2020/2/10/IC2006.CFFEX.txt:2295
+- [ ] ./Tick/2020/4/output.log:601:[Warning] Over 4.0% Exception :0.05982668042134365 Index found in Tick/2020/4/20/000852.SH.txt:18
+- [x] ./Tick/2020/7/output.log:421:[Warning] Over 4.0% Exception :0.05020326514809326 Index found in Tick/2020/7/3/IH2009.CFFEX.txt:93
+- [x] ./Tick/2020/7/output.log:444:[Warning] Over 4.0% Exception :0.0674608486146433 Index found in Tick/2020/7/16/IH2012.CFFEX.txt:13301
+- [ ] ./Tick/2020/12/output.log:37:[Warning] Over 4.0% Exception :0.04262471426650527 Index found in Tick/2020/12/21/IC2102.CFFEX.txt:2
+- [x] ./Tick/2022/11/output.log:134:[Warning] Over 10.0% Exception :0.11056340357958128 Index found in Tick/2022/11/8/IM2211.CFFEX.txt:2
+- [ ] ./Tick/2023/8/output.log:386:[Warning] Over 4.0% Exception :0.05530205088991136 Index found in Tick/2023/8/28/000852.SH.txt:316
+- [ ] ./Tick/2023/8/output.log:390:[Warning] Over 4.0% Exception :0.05474633200096024 Index found in Tick/2023/8/28/399300.SZ.txt:16
+- [ ] ./Tick/2023/8/output.log:399:[Warning] Over 4.0% Exception :0.050577565133955726 Index found in Tick/2023/8/28/000001.SH.txt:317
+- [ ] ./Tick/2023/8/output.log:405:[Warning] Over 4.0% Exception :0.054588989243840924 Index found in Tick/2023/8/28/000905.SH.txt:316
+- [ ] ./Tick/2023/8/output.log:407:[Warning] Over 4.0% Exception :0.05470589483959554 Index found in Tick/2023/8/28/000906.SH.txt:316
+- [ ] ./Tick/2023/8/output.log:410:[Warning] Over 4.0% Exception :0.05109047100826647 Index found in Tick/2023/8/28/000016.SH.txt:317
+- [ ] ./Tick/2023/8/output.log:415:[Warning] Over 4.0% Exception :0.054588989243840924 Index found in Tick/2023/8/28/399905.SZ.txt:16
+- [ ] ./Tick/2023/8/output.log:427:[Warning] Over 4.0% Exception :0.05474633200096024 Index found in Tick/2023/8/28/000300.SH.txt:316
